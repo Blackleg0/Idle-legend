@@ -1,0 +1,6 @@
+{
+  "name": "Idle Legends",
+  "description": "An addictive fantasy idle RPG mobile game featuring auto-battles, hero classes, progression, and offline rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
